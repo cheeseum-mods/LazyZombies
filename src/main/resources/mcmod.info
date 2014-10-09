@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lazyzombies",
+  "name": "Lazy Zombies",
+  "description": "Instills the power of disinclination to zombies. (They're less bloodthirsty and never break doors.)",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Cheeseum"],
+  "credits": "dude(tte) who made zombie ai so easy to change",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
